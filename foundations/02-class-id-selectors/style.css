@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+p.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+p.number-3 {
+    font-size: 24px;
+}
+#second-el {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-el {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
